@@ -2,7 +2,7 @@
 
 Solução web full-stack desenvolvida para substituir o atendimento em papel de uma assistência técnica por um sistema digital integrado em nuvem.
 
-## 🚀 Arquitetura & Tecnologias
+## Arquitetura & Tecnologias
 
 * **Banco de Dados:** Supabase (PostgreSQL na nuvem com restrições de integridade, triggers e validações)
 * **Atendimento no Balcão / Mobile:** Python + Gradio (`app_gradio.py`)
