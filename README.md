@@ -1,4 +1,4 @@
-# 🛠️ TechFix Informática - Sistema de Ordens de Serviço
+# TechFix Informática - Sistema de Ordens de Serviço
 
 Solução web full-stack desenvolvida para substituir o atendimento em papel de uma assistência técnica por um sistema digital integrado em nuvem.
 
